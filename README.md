@@ -41,5 +41,5 @@ I'm an aspiring full-stack software engineer with 9 years of experience developi
 
 ### Contact Me:
 <a href="mailto:sbishop411@gmail.com"><img align="left" alt="Email" src="https://icongr.am/clarity/email.svg?size=32&color=currentColor" /></a>
-<a href="https://www.linkedin.com/in/scottandrewbishop/"><img align="left" alt="LinkedIn" src="https://icongr.am/devicon/linkedin-original.svg?size=32&color=currentColor" /></a>
+<a href="https://www.linkedin.com/in/scottbishopdev/"><img align="left" alt="LinkedIn" src="https://icongr.am/devicon/linkedin-original.svg?size=32&color=currentColor" /></a>
 <a href="https://twitter.com/ScottBishopSays"><img align="left" alt="Twitter" src="https://icongr.am/devicon/twitter-original.svg?size=32&color=currentColor" /></a>
