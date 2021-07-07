@@ -1,15 +1,16 @@
 ### Hi, I'm Scott 👋
 
-I'm an aspiring full-stack software engineer with 9 years of experience developing SAAS web applications. I've got a passion for learning new technologies (especially by doing), and building robust systems with them! .NET Core is my wheelhouse, but I've also spent plenty of time with an array of other modern web technologies. Feel free to browse and (gently) mock my code to your heart's content!
+I'm a full-stack software engineer with a decade of experience developing SAAS web applications. I've got a passion for learning new technologies (especially by doing), and building robust systems with them! .NET is my wheelhouse, but I've also spent plenty of time with an array of other modern web technologies. Feel free to browse and (gently) mock my code to your heart's content!
 
 ---
 
-- 👨‍💻 **Currently working on:** <a href="https://github.com/sbishop411/FactorioProductionCells">Factorio Production Cells</a>, and cleaning up some old private repos to make them public.
-- 📖 **Currently learning:** More about Docker, DevOps, and personal branding.
+- 👨‍💻 **Currently working on:** My [Java-based solutions](https://github.com/scottbishopdev/CrackingTheCodingInterview) to the problems found in [Cracking the Coding Interview](https://www.crackingthecodinginterview.com/). Also, finding a job! [Wanna hire me?](mailto:jobs@scottbishop.dev)
+- 📖 **Currently learning:** Java (again), advanced networking.
 - 🏆 **Goals:**
-    - Get <a href="https://github.com/sbishop411/FactorioProductionCells">Factorio Production Cells</a> released.
-    - Learn React and get more experience with SPA frameworks.
-    - Have code accepted to an open source project.
+    - Finish setting up my new [TrueNAS SCALE](https://www.truenas.com/truenas-scale/)-based homelab environment and its related services.
+    - Learn [Helm](https://helm.sh/) so I can start contributing to [TrueCharts](https://github.com/truecharts/apps).
+    - Complete the refactoring of [RoverInterviewProject](https://github.com/scottbishopdev/RoverInterviewProject) from JavaScript & Angular to TypeScript & React.
+    - Dive back into [Factorio Production Cells](https://github.com/scottbishopdev/FactorioProductionCells) so I can finally get it released, hopefully learning [.NET Core Blazor](https://docs.microsoft.com/en-us/aspnet/core/blazor/?view=aspnetcore-5.0) along the way.
 - 💖 **Passions:** Learning, teaching, creating, and my dog, Max.
 
 <br />
