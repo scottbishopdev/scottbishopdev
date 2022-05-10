@@ -4,8 +4,8 @@ I'm a full-stack software engineer with a decade of experience developing SAAS w
 
 ---
 
-- 👨‍💻 **Currently working on:** My [Java-based solutions](https://github.com/scottbishopdev/CrackingTheCodingInterview) to the problems found in [Cracking the Coding Interview](https://www.crackingthecodinginterview.com/). Also, finding a job! [Wanna hire me?](mailto:jobs@scottbishop.dev)
-- 📖 **Currently learning:** Java (again), advanced networking.
+- 👨‍💻 **Currently working on:** Some project for visualizing and manipulating graph-based data.
+- 📖 **Currently learning:** Java, Spring Boot, JanusGraph, Gremlin
 - 🏆 **Goals:**
     - Finish setting up my new [TrueNAS SCALE](https://www.truenas.com/truenas-scale/)-based homelab environment and its related services.
     - Learn [Helm](https://helm.sh/) so I can start contributing to [TrueCharts](https://github.com/truecharts/apps).
